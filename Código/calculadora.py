@@ -1,0 +1,8 @@
+print("Calculadora")
+x=float(input("Ingrese el primer numero a operar: "))
+y=float(input("Ingrese el segundo numero a operar: "))
+print("Seleccione una operación a realizar :")
+print("1. Suma")
+print("2. Resta")
+print("3. Multiplicación")
+print("4. División")
